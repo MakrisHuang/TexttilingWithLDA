@@ -34,19 +34,16 @@ jupyter notebook
 3. Textting Algorithm
 
 # Workflow
-* * *
 ###### 1. Train Corpus with LDA
 1. Create wikipedia dictionary
 2. Create wikipedia MmCorpus from step 1
 3. Use LDA to train corpus, to find the topic most-associated with each word
 4. Test: get topic similarity from topics
-* * *
 ###### 2. Texttiling Algorithm
 1. Declaration: Tokenization
 2. Declaration: Blokc Comparison and Lexical Score Determination
 3. Declaration: Smoothing and Boundary identification
 4. Run Demo
-* * *
 ###### 3. Given the segment, find the topic via LDA
 1. use LDA to find most related topic
 2. now we have the topic_id, let's find out which word has the highest prob related to that topic
