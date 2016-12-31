@@ -52,6 +52,9 @@ jupyter notebook
 
 # Result of Texttiling given LDA modeling
 
+### Segmentation of text
+![Segmentation of text](./segmentation.png)
+
 ### Gap Score (with Smooth), Depth Score
 ![Gap Score (with Smooth), Depth Score](./gap_depth_score.png)
 
